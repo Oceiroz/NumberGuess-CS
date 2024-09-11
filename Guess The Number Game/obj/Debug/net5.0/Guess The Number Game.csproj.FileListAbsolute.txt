@@ -1,0 +1,15 @@
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\obj\Debug\net5.0\Guess The Number Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\obj\Debug\net5.0\Guess The Number Game.AssemblyInfoInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\obj\Debug\net5.0\Guess The Number Game.AssemblyInfo.cs
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\obj\Debug\net5.0\Guess The Number Game.csproj.CoreCompileInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\bin\Debug\net5.0\Guess The Number Game.exe
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\bin\Debug\net5.0\Guess The Number Game.deps.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\bin\Debug\net5.0\Guess The Number Game.runtimeconfig.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\bin\Debug\net5.0\Guess The Number Game.runtimeconfig.dev.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\bin\Debug\net5.0\Guess The Number Game.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\bin\Debug\net5.0\ref\Guess The Number Game.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\bin\Debug\net5.0\Guess The Number Game.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\obj\Debug\net5.0\Guess The Number Game.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\obj\Debug\net5.0\ref\Guess The Number Game.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\obj\Debug\net5.0\Guess The Number Game.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Guess The Number Game\obj\Debug\net5.0\Guess The Number Game.genruntimeconfig.cache
